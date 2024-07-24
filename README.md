@@ -3,10 +3,18 @@
 
 1. #### Please run the following commands to install the necessary packages for VSCode:
 pip install setuptools
+
+
 pip install packaging
+
+
+
 pip install pandas dash
+
+
 pip install more-itertools
-présentation des travaux
+
+
 pip install jinja2==2.11.3
 
 2. #### Verify Installation of Required Packages:
